@@ -1,7 +1,5 @@
 # MyDesignProjects
 
-## My Design Projects Portfolio
-
 Welcome to my Design Projects Portfolio repository! Here, you'll find a collection of my design work spanning various projects, from user interfaces to branding and more. Each project represents a unique creative journey, blending aesthetics with functionality.
 
 ### About Me
