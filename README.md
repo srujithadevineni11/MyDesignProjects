@@ -16,6 +16,6 @@ I'm always eager to connect with fellow designers, developers, and anyone intere
 
 Let's connect:
 - Email: srujithad@gmail.com
-- LinkedIn:https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/srujitha-devineni-020463218/
+- LinkedIn: https://www.linkedin.com/in/srujitha-devineni-020463218/
 
 Thank you for visiting my repository. I hope you enjoy exploring my design journey!
